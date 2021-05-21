@@ -27,7 +27,7 @@ Firstly, we will use Ghidra to analyze the source code of the "a.out" executable
 ### References used <br />
  https://docs.angr.io/
 <br /> https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/
-<br /> https://github.com/Dvd848/CTFs/blob/master/2020_GoogleCTF/Beginner.md
+<br /> https://github.com/Dvd848
 <br /> https://www.youtube.com/watch?v=75gBFiFtAb8
 
 
